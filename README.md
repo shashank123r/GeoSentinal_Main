@@ -427,8 +427,5 @@ This project is licensed under the MIT License.
 - [ ] Advanced AI models
 - [ ] Collaborative analysis tools
 
----
 
-**Built with ❤️ for disaster response and humanitarian aid**
 
-*Last Updated: November 2024*
