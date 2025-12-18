@@ -1,6 +1,6 @@
 # 🌍 GeoSentinal - AI-Powered Disaster Analysis Platform
 
-A modern, single-page React application for analyzing natural disasters through satellite imagery comparison, AI-powered damage detection, and interactive visualizations.
+A modern, single-page React application for analyzing natural disasters through satellite imagery comparison, AI-powered damage detection, and interactive visualizations
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB.svg)
@@ -426,6 +426,7 @@ This project is licensed under the MIT License.
 - [ ] Multi-language support
 - [ ] Advanced AI models
 - [ ] Collaborative analysis tools
+
 
 
 
