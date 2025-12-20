@@ -403,11 +403,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📞 Contact
-
-- **Email**: info@geosentinal.com
-- **Website**: [geosentinal.com](https://geosentinal.com)
-- **GitHub**: [github.com/geosentinal](https://github.com/geosentinal)
 
 ---
 
@@ -426,6 +421,7 @@ This project is licensed under the MIT License.
 - [ ] Multi-language support
 - [ ] Advanced AI models
 - [ ] Collaborative analysis tools
+
 
 
 
